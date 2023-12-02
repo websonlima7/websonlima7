@@ -6,8 +6,11 @@ Sou Webson Lima, estudante de programação Front End, atualmente estou aprenden
 - <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo" />
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="react-logo" />
 <h2>esse aqui abaixo é meu whatsapp para contato </h2>
-- <a href="https://api.whatsapp.com/send?phone=5581992571261">
+ <a href="https://api.whatsapp.com/send?phone=5581992571261">
+ 
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp-logo" />
+   <br>
+  <br>
 </a>
 
 [![Webson stats](https://github-readme-stats.vercel.app/api?username=websonlima7)](https://github.com/anuraghazra/github-readme-stats)
