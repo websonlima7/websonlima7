@@ -10,6 +10,6 @@ Sou Webson Lima, estudante de programação Front End, atualmente estou aprenden
 </a>
 
 [![Webson stats](https://github-readme-stats.vercel.app/api?username=websonlima7)](https://github.com/anuraghazra/github-readme-stats)
-<h2>esse aqui abaixo é meu whatsapp</h2>
+- <h2>esse aqui abaixo é meu whatsapp</h2>
 
 [![Webson Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=websonlima7)](https://github.com/anuraghazra/github-readme-stats)
